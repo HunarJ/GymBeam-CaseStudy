@@ -43,7 +43,7 @@ echo ('<strong>The most positive product name: </strong><br>' . $productMostPosi
 echo('<br>');
 echo ('<strong>The most positive product description: </strong><br>' . $productMostPositiveDescription);
 echo('<br>');
-echo ('<strong>The most pnegative product name: </strong><br>' . $productMostNegativeName . '<br>');
+echo ('<strong>The most negative product name: </strong><br>' . $productMostNegativeName . '<br>');
 echo('<br>');
 echo ('<strong>The most negative product description: </strong><br>' . $productMostNegativeDescription);
 
